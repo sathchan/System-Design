@@ -17,3 +17,11 @@ Problem Solving and critical thinking are core elements for Seasoned Engineers. 
 * Applying design patterns specific to the problem you are trying to solve.
 
 * Frequently asked Design problems with Answers
+
+
+
+
+
+*References
+
+https://docs.microsoft.com/en-us/azure/architecture/
