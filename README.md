@@ -25,3 +25,5 @@ Problem Solving and critical thinking are core elements for Seasoned Engineers. 
 *References
 
 https://docs.microsoft.com/en-us/azure/architecture/
+
+https://www.microsoft.com/net/learn/architecture
